@@ -1,0 +1,31 @@
+body	{
+	margin: 20px auto;
+	border: 10px solid #bdc3c7;
+	padding: 20px;
+	width: 80%;
+	max-width: 700px;
+	font-family: 'source sans pro', sans-serif;
+}
+.date {
+	font-size: 12.5px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: #3498db;
+	font-weight: bold;
+}
+h2	{
+	font-weight: 900;
+	color: #2c3e50;
+}
+.firstpara	{
+	border-left: 5px solid #bdc3c7;
+	margin-left: 5px;
+	padding-left: 5px;
+
+}
+hr	{
+
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #bdc3c7, rgba(0, 0, 0, 0));
+}
